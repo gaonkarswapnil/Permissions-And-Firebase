@@ -8,11 +8,10 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/btnSetting"
+        android:id="@+id/btnShowNotification"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Open App Setting"
-        android:visibility="gone"
+        android:text="Show Notification"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
